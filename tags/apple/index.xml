@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Ragone</title>
-    <link>https://davidragone.com/</link>
-    <description>Recent content on David Ragone</description>
+    <title>Apple on David Ragone</title>
+    <link>https://davidragone.com/tags/apple/</link>
+    <description>Recent content in Apple on David Ragone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Jul 2017 06:43:33 -0700</lastBuildDate>
     
-	<atom:link href="https://davidragone.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidragone.com/tags/apple/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>An ad from Apple has some interesting ideas on how to live life:
 Pathetic… even Apple is promoting workaholism now. Check out this ad for their Planet Of The Apps show. pic.twitter.com/PKn30pWWgn
 &amp;mdash; Jason Fried (@jasonfried) June 9, 2017  I suppose I shouldn&amp;rsquo;t be surprised seeing such things from Apple (the company building a campus with everything but a daycare), but I still can&amp;rsquo;t believe this ad. It reminds me of an interesting discussion I had with a former manager about what and how we celebrate wins, and how that defines our culture and norms.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://davidragone.com/projects/</link>
-      <pubDate>Mon, 03 Jul 2017 22:55:05 -0400</pubDate>
-      
-      <guid>https://davidragone.com/projects/</guid>
-      <description></description>
     </item>
     
   </channel>

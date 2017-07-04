@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on David Ragone&#39;s Resume</title>
-    <link>http://davidragone.com/categories/</link>
+    <link>https://davidragone.com/categories/</link>
     <description>Recent content in Categories on David Ragone&#39;s Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="http://davidragone.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidragone.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

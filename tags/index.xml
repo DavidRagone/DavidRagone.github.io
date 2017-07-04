@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on David Ragone</title>
-    <link>http://davidragone.com/tags/</link>
+    <link>https://davidragone.com/tags/</link>
     <description>Recent content in Tags on David Ragone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jul 2017 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="http://davidragone.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidragone.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>http://davidragone.com/tags/projects/</link>
+      <link>https://davidragone.com/tags/projects/</link>
       <pubDate>Mon, 03 Jul 2017 22:55:05 -0400</pubDate>
       
-      <guid>http://davidragone.com/tags/projects/</guid>
+      <guid>https://davidragone.com/tags/projects/</guid>
       <description></description>
     </item>
     

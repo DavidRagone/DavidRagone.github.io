@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://davidragone.com/projects/</loc>
+    <loc>https://davidragone.com/projects/</loc>
     <lastmod>2017-07-03T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://davidragone.com/categories/</loc>
+    <loc>https://davidragone.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://davidragone.com/</loc>
-    <lastmod>2017-07-03T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://davidragone.com/tags/projects/</loc>
+    <loc>https://davidragone.com/</loc>
     <lastmod>2017-07-03T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://davidragone.com/categories/projects/</loc>
+    <loc>https://davidragone.com/tags/projects/</loc>
     <lastmod>2017-07-03T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://davidragone.com/tags/</loc>
+    <loc>https://davidragone.com/categories/projects/</loc>
+    <lastmod>2017-07-03T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidragone.com/tags/</loc>
     <lastmod>2017-07-03T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>

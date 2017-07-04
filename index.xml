@@ -6,10 +6,20 @@
     <description>Recent content on David Ragone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jul 2017 06:43:33 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2017 08:05:28 -0700</lastBuildDate>
     
 	<atom:link href="https://davidragone.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Multiple Themes With Hugo</title>
+      <link>https://davidragone.com/blog/using-multiple-themes-with-hugo/</link>
+      <pubDate>Tue, 04 Jul 2017 08:05:28 -0700</pubDate>
+      
+      <guid>https://davidragone.com/blog/using-multiple-themes-with-hugo/</guid>
+      <description>I like the simplicity of the first theme I chose for this site, hugo-sustain. After setting it up, however, I realized that the &amp;ldquo;resume&amp;rdquo; section links to a separate site, and actually uses a different theme (hugo-vitae). I wanted to be able to use two hugo themes on the same site, and spent a little time investigating how to do that.
+There&amp;rsquo;s essentially two options (as with anything in programming, there&amp;rsquo;s tradeoffs in where you put the complexity):</description>
+    </item>
     
     <item>
       <title>Balance</title>

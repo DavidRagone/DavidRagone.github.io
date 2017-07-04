@@ -3,8 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://davidragone.com/blog/balance/</loc>
+    <lastmod>2017-07-04T06:43:33-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://davidragone.com/projects/</loc>
     <lastmod>2017-07-03T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidragone.com/tags/apple/</loc>
+    <lastmod>2017-07-04T06:43:33-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidragone.com/blog/</loc>
+    <lastmod>2017-07-04T06:43:33-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,8 +30,26 @@
   </url>
   
   <url>
+    <loc>https://davidragone.com/tags/culture/</loc>
+    <lastmod>2017-07-04T06:43:33-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://davidragone.com/</loc>
-    <lastmod>2017-07-03T22:55:05-04:00</lastmod>
+    <lastmod>2017-07-04T06:43:33-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidragone.com/categories/management/</loc>
+    <lastmod>2017-07-04T06:43:33-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidragone.com/tags/organization/</loc>
+    <lastmod>2017-07-04T06:43:33-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -31,8 +66,13 @@
   </url>
   
   <url>
+    <loc>https://davidragone.com/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://davidragone.com/tags/</loc>
-    <lastmod>2017-07-03T22:55:05-04:00</lastmod>
+    <lastmod>2017-07-04T06:43:33-07:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on David Ragone</title>
-    <link>https://davidragone.com/blog/</link>
-    <description>Recent content in Blogs on David Ragone</description>
+    <title>Hugo on David Ragone</title>
+    <link>https://davidragone.com/tags/hugo/</link>
+    <description>Recent content in Hugo on David Ragone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Jul 2017 08:05:28 -0700</lastBuildDate>
     
-	<atom:link href="https://davidragone.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidragone.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>https://davidragone.com/blog/using-multiple-themes-with-hugo/</guid>
       <description>I like the simplicity of the first theme I chose for this site, hugo-sustain. After setting it up, however, I realized that the &amp;ldquo;resume&amp;rdquo; section links to a separate site, and actually uses a different theme (hugo-vitae). I wanted to be able to use two hugo themes on the same site, and spent a little time investigating how to do that.
 There&amp;rsquo;s essentially two options (as with anything in programming, there&amp;rsquo;s tradeoffs in where you put the complexity):</description>
-    </item>
-    
-    <item>
-      <title>Balance</title>
-      <link>https://davidragone.com/blog/balance/</link>
-      <pubDate>Tue, 04 Jul 2017 06:43:33 -0700</pubDate>
-      
-      <guid>https://davidragone.com/blog/balance/</guid>
-      <description>An ad from Apple has some interesting ideas on how to live life:
-Pathetic… even Apple is promoting workaholism now. Check out this ad for their Planet Of The Apps show. pic.twitter.com/PKn30pWWgn
-&amp;mdash; Jason Fried (@jasonfried) June 9, 2017  I suppose I shouldn&amp;rsquo;t be surprised seeing such things from Apple (the company building a campus with everything but a daycare), but I still can&amp;rsquo;t believe this ad. It reminds me of an interesting discussion I had with a former manager about what and how we celebrate wins, and how that defines our culture and norms.</description>
     </item>
     
   </channel>

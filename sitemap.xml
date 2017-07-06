@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://davidragone.com/blog/why-you-should-write-comments-in-your-code/</loc>
+    <lastmod>2017-07-05T18:31:09-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://davidragone.com/blog/using-multiple-themes-with-hugo/</loc>
     <lastmod>2017-07-04T08:05:28-07:00</lastmod>
   </url>
@@ -25,7 +30,7 @@
   
   <url>
     <loc>https://davidragone.com/blog/</loc>
-    <lastmod>2017-07-04T08:05:28-07:00</lastmod>
+    <lastmod>2017-07-05T18:31:09-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -42,7 +47,7 @@
   
   <url>
     <loc>https://davidragone.com/</loc>
-    <lastmod>2017-07-04T08:05:28-07:00</lastmod>
+    <lastmod>2017-07-05T18:31:09-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,8 +70,20 @@
   </url>
   
   <url>
+    <loc>https://davidragone.com/tags/principles/</loc>
+    <lastmod>2017-07-05T18:31:09-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://davidragone.com/tags/programming/</loc>
-    <lastmod>2017-07-04T08:05:28-07:00</lastmod>
+    <lastmod>2017-07-05T18:31:09-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://davidragone.com/categories/programming/</loc>
+    <lastmod>2017-07-05T18:31:09-07:00</lastmod>
     <priority>0</priority>
   </url>
   
